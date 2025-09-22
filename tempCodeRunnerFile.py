@@ -1,0 +1,1 @@
+insert_patient_data(Patient1)
